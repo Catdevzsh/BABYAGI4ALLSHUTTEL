@@ -1,7 +1,4 @@
-
-ChatGPT
-Certainly! I'll add an MIT License section to the README and update the log. Here's the revised README for the "BABYAGI4ALLSHUTTEL" project:
-
+ 
 BABYAGI4ALLSHUTTEL
 
 Overview
